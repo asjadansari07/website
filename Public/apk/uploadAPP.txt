@@ -1,0 +1,28 @@
+>>> Signer
+    X.509, CN=Asjad Ansari, OU=Mobile, O=MyCompany, L=Mumbai, ST=Maharashtra, C=91
+    [trusted certificate]
+
+asjupload_keystore
+
+jarsigner -verbose -keystore D:\asjadansari.jks C:\Users\Aszad\Desktop\apk\Sign_blank_APK_to_certify_com.example.asjadansari.apk asjadansari_keystore
+
+zipalign -c -v 4 asjadansari.apk
+
+
+Ansari@10061989
+
+com.example.asjadansari
+
+https://asjadansari.droppages.com/
+
+As I am fresher to the android development and this is my first android application which is basically represents a replica of my blog which captures my website into this android application. As of now I am continuously trying to improve my skills to add new features to this application. At last  don't forget to give your valuable feedback to improve the same.
+
+asjadansari07@gmail.com
+https://asjadansari.droppages.com/
+
+asjadansari
+
+This is a personal blog app
+
+
+NA

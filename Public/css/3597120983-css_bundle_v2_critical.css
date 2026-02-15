@@ -1,0 +1,82 @@
+﻿/*critical css 3597120983-css_bundle_v2*/
+body {
+    margin: 0;
+    padding: 0 0 1px
+}
+
+.comments,.content-outer,.date-header,.footer-outer,.header-outer,.inline-ad,.main-inner,.main-outer,.post,.widget {
+    position: relative;
+    min-height: 0
+}
+.section {
+    margin: 0 15px
+}
+
+.widget {
+    margin: 30px 0
+}
+
+.section:first-child .widget:first-child {
+    margin-top: 0
+}
+
+.section:last-child .widget:last-child {
+    margin-bottom: 0
+}
+
+a img {
+    border: none;
+    position: relative
+}
+
+h1,h2,h3,h4 {
+    margin: 0;
+    position: relative
+}
+.widget {
+    line-height: 1.4
+}
+
+.widget ul {
+    padding: 0 0 0 1.25em;
+    margin: 0;
+    line-height: 1.2
+}
+
+.widget li {
+    padding: .25em 0;
+    margin: 0;
+    text-indent: 0
+}
+.item-control {
+    display: none
+}
+.widget-item-control {
+    float: right;
+    height: 20px;
+    margin-top: -20px;
+    position: relative;
+    z-index: 10
+}
+.post-footer,.post-header {
+    line-height: 1.6
+}
+dt {
+    font-weight: 700
+}
+html {
+    height: 100%
+}
+
+body {
+    min-height: 100%;
+    position: relative
+}
+div.clear {
+    clear: both
+}
+body {
+    overflow-wrap: break-word;
+    word-break: break-word;
+    word-wrap: break-word
+}
